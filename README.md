@@ -35,12 +35,7 @@ With **MediaPipe**, **pyautogui**, and **pycaw**, the system recognizes gestures
 Supports **multi-hand input** — one hand for mouse control, the other for sound — all through a mirrored webcam feed for intuitive interaction.  
 > 🖐️ Turns your webcam into a hands-free human–computer interface.
 
----
-
-### 🧰 Tech Stack
-**Languages:** Python, Java, C++, Dart
-**Frameworks & Tools:** TensorFlow, PyTorch, MediaPipe, OpenCV, Spring Boot, Flask, .Net Core, Spring Boot  
-**Other Skills:** Machine Learning, Computer Vision, Data Analysis
+### And you can find out much more
 
 ---
 
