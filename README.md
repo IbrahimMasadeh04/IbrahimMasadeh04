@@ -9,7 +9,7 @@
 I’m a passionate tech enthusiast who loves transforming ideas into intelligent, user-friendly systems.  
 Whether it’s analyzing data, training models, or designing interactive AI assistants — I enjoy every step of the process.
 
-- 🎯 Currently exploring **Retrieval Augmented Generations**
+- 🎯 Built and actively developing **Retrieval-Augmented Generation (RAG)** systems
 - 🧩 Experienced in **Python**, **Machine Learning**, and **Backend Development (Spring Boot / .Net Core)**  
 - 💬 Always open to sharing knowledge, teaching, and learning something new  
 - ⚡ Fun fact: I get more motivated when challenged — pressure turns my code into gold 😎  
@@ -34,6 +34,16 @@ A gesture-based control system that lets users **control their computer using ha
 With **MediaPipe**, **pyautogui**, and **pycaw**, the system recognizes gestures to move the mouse, click, and adjust volume.  
 Supports **multi-hand input** — one hand for mouse control, the other for sound — all through a mirrored webcam feed for intuitive interaction.  
 > 🖐️ Turns your webcam into a hands-free human–computer interface.
+
+#### 📚 [Book RAG](https://github.com/IbrahimMasadeh04/bookRag)
+A prototype **intelligent reading assistant** powered by **Retrieval-Augmented Generation (RAG)** technology, designed to help readers explore Arabic novels and books.  
+Users can upload PDF novels, store them in a **vector database (ChromaDB)**, and then ask natural-language questions about characters, events, and passages.  
+The system uses **Google Gemini AI** for answering and **LangChain** for the RAG pipeline, with advanced **Arabic text normalization** for accurate semantic search.  
+Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **PDFPlumber**.  
+> 🤖 Turns any Arabic PDF novel into a conversational, AI-powered reading companion.
+
+#### 🎮 [VenomPlaystation](https://github.com/IbrahimMasadeh04/VenomPlaystation)
+*Details coming soon — repository will be linked once public.*
 
 ### And you can find out much more
 
