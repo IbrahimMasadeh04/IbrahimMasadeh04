@@ -51,8 +51,7 @@ Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **PDFPlum
 
 ### 🌍 Connect with Me
 📫 Email: **ibrahim.masadeh.prog@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/ibrahim-masadeh](https://linkedin.com/in/ibrahim-masadeh)  
-🧠 GitHub: [github.com/ibrahim-masadeh](https://github.com/ibrahim-masadeh)  
+💼 LinkedIn: [linkedin.com/in/ibrahim-masadeh](https://linkedin.com/in/ibrahim-masadeh)    
 
 ---
 
