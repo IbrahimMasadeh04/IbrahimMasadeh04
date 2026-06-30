@@ -18,6 +18,21 @@ Whether it’s analyzing data, training models, or designing interactive AI assi
 
 ### 🧑‍💻 Featured Projects
 
+#### 🤖 Multi-Agent System *(Private Project)*
+A private, production-focused **multi-agent AI system** mainly built in **LangChain, LangGraph**, where specialized agents collaborate to solve complex tasks through role-based orchestration.
+
+The core system agents includes:
+- 🧭 **Planner Agent** for task decomposition and execution strategy  
+- 🔎 **Retriever/Research Agent** for context collection and grounded knowledge retrieval  
+- 🧠 **Reasoning Agent** for analysis and synthesis across collected context  
+- 💻 **Execution Agent** for implementation-oriented actions and response generation  
+- ✅ **Reviewer Agent** for validation, quality checks, and output refinement  
+
+It also integrates an **MCP server** that I’m actively working with to expose tools/services in a standardized way for agent-to-tool communication and scalable orchestration workflows.
+
+**🛠️ Tech Stack:** `Python`, `Agent Orchestration`, `RAG Patterns`, `MCP Server`, `Makefile`  
+> 🔒 The repository is private, but I’m happy to discuss the architecture and engineering decisions.
+
 #### 🟢 [AceVision](https://github.com/IbrahimMasadeh04/AceVision)
 A prototype, real-time tennis posture analysis system using **YOLO**, **pose estimation**, and **AR feedback overlays**.  
 > Helps players improve performance through AI-based posture correction.
