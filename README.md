@@ -18,7 +18,7 @@ Whether it’s analyzing data, training models, or designing interactive AI assi
 
 ### 🧑‍💻 Featured Projects
 
-#### 🤖 Multi-Agent System *(Private Project)*
+#### 🤖 [Multi-Agent System]()
 A private, production-focused **multi-agent AI system** mainly built in **LangChain, LangGraph**, where specialized agents collaborate to solve complex tasks through role-based orchestration.
 
 The core system agents includes:
