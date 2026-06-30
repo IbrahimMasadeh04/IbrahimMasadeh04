@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ibrahim Masa'deh  
 
 🎓 **Data Science & Artificial Intelligence Student** at [Al-Hussein Bin Talal University](https://ahu.edu.jo)  
-💡 **Technical Team Leader** @ IEEE AHU Student Branch  
+💡 **AI Engineer intern** @ Al-Bayanat Co.  
 
 ---
 
@@ -42,16 +42,24 @@ The system uses **Google Gemini AI** for answering and **LangChain** for the RAG
 Built with **Python**, **Streamlit**, **LangChain**, **ChromaDB**, and **PDFPlumber**.  
 > 🤖 Turns any Arabic PDF novel into a conversational, AI-powered reading companion.
 
-#### 🎮 [VenomPlaystation](https://github.com/IbrahimMasadeh04/VenomPlaystation)
-*Details coming soon — repository will be linked once public.*
+#### 🎮 [VenomPlaystation]
+**End-to-End POS & Management Desktop Application for PlayStation Lounges**
 
-### And you can find out much more
+An offline, highly secure Point of Sale (POS) and management system engineered specifically for gaming cafes. I developed this system from scratch to automate session tracking, cafeteria sales, and complex financial calculations. 
 
+**🛠️ Tech Stack:** `.NET MAUI`, `C#`, `XAML`, `SQLite`, `SecureStorage`, and much more!
+
+**✨ Key Features:**
+*   **Session & Time Management:** Precise tracking of gaming sessions (Open time, VIP, Offers) with automated alerts.
+*   **Smart Financials:** Integrated cafeteria POS, expense tracking, and dynamic calculation of worker profit shares.
+*   **High Security & Custom Licensing:** Built-in Hardware ID (HWID) activation system, offline verification, and an anti-tamper quota-based Free Trial system.
+*   **Responsive & Adaptive UI:** Clean Architecture with a fully customizable visual theme (White-labeling) to match client branding across varying screen sizes.
+*   I can't provide the source code because it is confidential 🫣
 ---
 
 ### 🌍 Connect with Me
 📫 Email: **ibrahim.masadeh.prog@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/ibrahim-masadeh](https://linkedin.com/in/ibrahim-masadeh)    
+💼 LinkedIn: [linkedin.com/in/ibrahim-masadeh](https://www.linkedin.com/in/ibrahim-masa-deh-89665228b/)    
 
 ---
 
